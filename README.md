@@ -3,6 +3,7 @@
 
 Equipe:
 - Humberto
+- Fábio
 - Luiz Matheus
 - Vitor André
 - Vitor Pestalozi
